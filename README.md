@@ -1,40 +1,25 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
+# Welcome to My GitHub Profile!
 
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-<div class="ocean">
-    <div class="bubble bubble--1"></div>
-    <div class="bubble bubble--2"></div>
-    <div class="bubble bubble--3"></div>
-    <div class="bubble bubble--4"></div>
-    <div class="bubble bubble--5"></div>
-    <div class="bubble bubble--6"></div>
-    <div class="bubble bubble--7"></div>
-    <div class="bubble bubble--8"></div>
-    <div class="bubble bubble--9"></div>
-    <div class="bubble bubble--10"></div>
-    <div class="bubble bubble--11"></div>
-    <div class="bubble bubble--12"></div>
-    <div class="octocat"></div>
+Hello! I'm Krishna, a passionate developer with a knack for creating dynamic and efficient solutions. I love exploring new technologies and continuously improving my skills. Here you'll find a collection of my projects, showcasing my journey and growth as a developer.
 
-    <div class="octocat one--1"></div>
-    <div class="octocat one--2"></div>
-    <div class="octocat one--3"></div>
-    <div class="octocat one--4"></div>
-</div>
+## About Me
 
-<div class="intro">
+- **Name:** Krishna
+- **Profession:** Software Developer
+- **Interests:** Coding, Open Source, AI, and Machine Learning
 
-    <div class="typewriter">
-        <h1>Hi, My Name is Krishna Nice to Meet you.</h1>
-      </div>
+## Skills
 
-</div>
+- **Languages:** Kotlin, Java-script, Html, Css
+- **Frameworks:** Node.js,
+- **Tools:** Git, Docker, Kubernetes, Jenkins
 
-</body>
-</html>
+## Projects
+
+1. **Project Name 1**: Brief description of what this project does.
+2. **Project Name 2**: Brief description of what this project does.
+3. **Project Name 3**: Brief description of what this project does.
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
+
+Happy Coding!
